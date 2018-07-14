@@ -1,7 +1,7 @@
 /*
 
 ARTG 2260: Programming Basics
- Joel Infeld, joelinfeld@gmail.com
+ Joel Infeld
  Assignment_final: "Traverse"
  
  **************************
